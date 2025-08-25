@@ -1,0 +1,3 @@
+name: Gurrala Varshini 
+Course : BCA
+GitHub : GitHub is a popular platform for developers to store, share, and collaborate on code. It is built around Git, a version control system created by Linus Torvalds (the founder of Linux).
